@@ -1,0 +1,2 @@
+# YOLO Badge Test File
+This is a meaningless file for testing YOLO badge.
